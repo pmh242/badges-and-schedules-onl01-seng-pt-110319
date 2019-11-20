@@ -1,6 +1,7 @@
 # Write your code here.
 
 
+<<<<<<< HEAD
 def badge_maker(name)
   "Hello, my name is #{name}."
 end
@@ -30,3 +31,5 @@ def printer(array)
     puts room
   end
 end
+=======
+>>>>>>> 924880e90b2cfddebee4b3618c09d186959fc097
